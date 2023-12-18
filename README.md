@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/eyenikeyev/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Basics of Azure Portal](https://github.com/eyenikeyev/azure.portal)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/eyenikeyev/azure-network-protocols)
+  - [Creating a Virtual Machine Network in Azure and Inspecting Network Protocol](https://github.com/eyenikeyev/vm-network)
 
 <h2>Connect with me:</h2>
 
