@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Basics of Azure Portal](https://github.com/eyenikeyev/azure.portal)
   - [Creating a Virtual Machine Network in Azure and Inspecting Network Protocol](https://github.com/eyenikeyev/vm-network)
+<li><b>Acitve Directory</b></li>
+  <ul>
 
 <h2>Connect with me:</h2>
 
