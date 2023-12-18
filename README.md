@@ -7,14 +7,14 @@
   - [osTicket: Post-Installation Configuration](https://github.com/eyenikeyev/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/eyenikeyev/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/eyenikeyev/configure-ad)
+  - [Basics of Azure Portal](https://github.com/eyenikeyev/azure.portal)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/eyenikeyev/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Eric | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Eric | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Eric | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Eric
 [instagram]: https://www.instagram.com/Eric
