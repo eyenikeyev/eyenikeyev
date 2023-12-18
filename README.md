@@ -12,12 +12,12 @@
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory within Azure VMs](https://github.com/eyenikeyev/active-directory)
   - [Understanding and Building Intuition for DNS](https://github.com/eyenikeyev/dns)
+  - [Network Fileshares and Permissions in Active Directory](https://github.com/eyenikeyev/network-fileshare) 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Eric | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Eric | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Eric | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Eric
-[instagram]: https://www.instagram.com/Eric
+[<img align="left" alt="Eric | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 [linkedin]: https://linkedin.com/in/Eric
