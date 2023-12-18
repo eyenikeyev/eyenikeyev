@@ -10,8 +10,7 @@
   - [Basics of Azure Portal](https://github.com/eyenikeyev/azure.portal)
   - [Creating a Virtual Machine Network in Azure and Inspecting Network Protocol](https://github.com/eyenikeyev/vm-network)
 <li><b>Active Directory</b></li>
-<ul>
-<a href = "https://github.com/eyenikeyev/active-directory">Installing and Configuring Active Directory within Azure VMs</a></li>
+  - <a href = "https://github.com/eyenikeyev/active-directory">Installing and Configuring Active Directory within Azure VMs</a></li>
 
 <h2>Connect with me:</h2>
 
