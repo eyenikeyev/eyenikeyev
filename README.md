@@ -11,7 +11,7 @@
   - [Creating a Virtual Machine Network in Azure and Inspecting Network Protocol](https://github.com/eyenikeyev/vm-network)
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory within Azure VMs](https://github.com/eyenikeyev/active-directory)
-
+  - [Understanding and Building Intuition for DNS](https://github.com/eyenikeyev/dns)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Eric | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
