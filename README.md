@@ -14,6 +14,7 @@
   - [Understanding and Building Intuition for DNS](https://github.com/eyenikeyev/dns)
   - [Network Fileshares and Permissions in Active Directory](https://github.com/eyenikeyev/network-fileshare)
 - <b>Virtual Private Networks (VPN)</b>
+  - [Understanding and Installing Virtual Private Networks](https://github.com/eyenikeyev/vpn)
 <h2>Connect with me:</h2>
 
 
