@@ -12,7 +12,8 @@
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory within Azure VMs](https://github.com/eyenikeyev/active-directory)
   - [Understanding and Building Intuition for DNS](https://github.com/eyenikeyev/dns)
-  - [Network Fileshares and Permissions in Active Directory](https://github.com/eyenikeyev/network-fileshare) 
+  - [Network Fileshares and Permissions in Active Directory](https://github.com/eyenikeyev/network-fileshare)
+ <b>Virtual Private Networks (VPN)</b>
 <h2>Connect with me:</h2>
 
 
