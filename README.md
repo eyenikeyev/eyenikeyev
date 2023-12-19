@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/eyenikeyev/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Basics of Azure Portal](https://github.com/eyenikeyev/azure.portal)
-  - [Understanding Network Protocols and Networking](https://github.com/eyenikeyev/vm-network)
+  - [Creating Virtual Machines and inspecting Network Protocols](https://github.com/eyenikeyev/vm-network)
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory](https://github.com/eyenikeyev/active-directory)
   - [Understanding and Building Intuition for DNS](https://github.com/eyenikeyev/dns)
