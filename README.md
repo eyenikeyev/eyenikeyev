@@ -8,11 +8,11 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/eyenikeyev/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Basics of Azure Portal](https://github.com/eyenikeyev/azure.portal)
-  - [Creating a Virtual Machine Network in Azure and Inspecting Network Protocol](https://github.com/eyenikeyev/vm-network)
+  - [Understanding Network Protocols and Networking](https://github.com/eyenikeyev/vm-network)
 - <b>Active Directory</b>
-  - [Installing and Configuring Active Directory within Azure VMs](https://github.com/eyenikeyev/active-directory)
+  - [Installing and Configuring Active Directory](https://github.com/eyenikeyev/active-directory)
   - [Understanding and Building Intuition for DNS](https://github.com/eyenikeyev/dns)
-  - [Network Fileshares and Permissions in Active Directory](https://github.com/eyenikeyev/network-fileshare)
+  - [Network Fileshares and Permissions](https://github.com/eyenikeyev/network-fileshare)
 - <b>Virtual Private Networks (VPN)</b>
   - [Understanding and Installing Virtual Private Networks](https://github.com/eyenikeyev/vpn)
 <h2>Connect with me:</h2>
