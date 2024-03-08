@@ -18,7 +18,7 @@
 <h2>Connect with me:</h2>
 
 
-[<img align="left" alt="Eric | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Eric | LinkedIn" width="22px" src="https://[https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/]
 
 
 
