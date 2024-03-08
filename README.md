@@ -23,4 +23,4 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/Eric](https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/)https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/
+[linkedin]: https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/
