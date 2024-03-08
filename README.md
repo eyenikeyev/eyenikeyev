@@ -18,8 +18,8 @@
 <h2>Connect with me:</h2>
 
 
-[<img align="left" alt="Eric | LinkedIn" width="22px" src="(https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/)"
+[<img align="left" alt="Eric | LinkedIn" width="22px
 
 
 
-[linkedin]: https://linkedin.com/in/Eric src="(https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/)"
+[linkedin]: https://linkedin.com/in/
