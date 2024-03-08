@@ -16,10 +16,10 @@
 - <b>Virtual Private Networks (VPN)</b>
   - [Understanding and Installing Virtual Private Networks](https://github.com/eyenikeyev/vpn)
 
-<h2>Connect with me:</h2>
+<h3>Connect with me:</h3>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/" [linkedin]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="[https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/]" [linkedin]
 
 
 
