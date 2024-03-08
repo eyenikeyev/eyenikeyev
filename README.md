@@ -19,7 +19,7 @@
 <h2>Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/"
 
 
 
