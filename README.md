@@ -23,4 +23,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Eric Yenikeyev
+[linkedin]: https://linkedin.com/in/Eric
