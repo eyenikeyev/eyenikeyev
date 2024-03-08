@@ -22,4 +22,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Erich2>🤳Connect with me:</h2>
+[linkedin]: https://linkedin.com/in/Erich2><h2>🤳Connect with me:</h2>
