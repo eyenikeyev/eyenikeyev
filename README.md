@@ -15,11 +15,12 @@
   - [Network Fileshares and Permissions](https://github.com/eyenikeyev/network-fileshare)
 - <b>Virtual Private Networks (VPN)</b>
   - [Understanding and Installing Virtual Private Networks](https://github.com/eyenikeyev/vpn)
+
 <h2>Connect with me:</h2>
 
 
-[<img align="left" alt="Eric | LinkedIn" width="22px
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://https://www.linkedin.com/in/eric-yenikeyev-3a0a901a9/
 
 
 
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/Josh
